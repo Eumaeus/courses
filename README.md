@@ -1,4 +1,6 @@
-courses
+# Course Documents · C. Blackwell · Furman University
 =======
 
-Miscellaneous documents for courses at Furman University.
+A site for documents for courses taught by C. Blackwell in the Department of Classics, Furman University.
+
+
