@@ -6,6 +6,7 @@ For Monday, 1/20: Drill II, pp. 221–222: Write out each participle form for th
 
 - **Thursday, 1/23** Produce forms for the following phrase, in every case, three genders, singular and plural:
 
+|  | Masc. | Fem. | Neut. |
 |---|---|---|---|
-| | Masc. | Fem. | Neut. |
-| N. | ὁ παιδεύων ἄνθρωπος | ἡ παυδεύουσα ψυχή |  τὸ παιδεῦον βίβλιον |
+| N. | ὁ παιδεύων ἄνθρωπος | ἡ παυδεύουσα ψυχή | τὸ παιδεῦον βίβλιον |
+| G. | … | … | … |
