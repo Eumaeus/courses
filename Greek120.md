@@ -6,11 +6,19 @@ For Monday, 1/20: Drill II, pp. 221–222: Write out each participle form for th
 
 ## Upcoming Quizzes
 
-- **Tuesday, 1/28** Produce forms for the following phrases, in every case, three genders, singular and plural: “every poet being freed”, “every soul being freed”, “every slave being freed”.
+- **Monday, 2/10** Produce forms for the following phrases, in every case, three genders, singular and plural: “the poet having educated”, “the soul having educated”, “the book having educated”.
 
 | |  | Masc. | Fem. | Neut. |
 |---|---|---|---|---|
-| Sing. | N. | πᾶς ὁ λύομενος ποιητής | πᾶσα ἡ λυομένη ψυχή | πᾶν τὸ λυόμενον δοῦλον |
+| Sing. | N. | ὁ λύσας ποιητής | ἡ λύσασα ψυχή |  τὸ λύσαν βίβλιον |
+
+
+
+- **Tuesday, 1/28** Produce forms for the following phrases, in every case, three genders, singular and plural: “every poet being freed”, “every soul being freed”, “every book being freed”.
+
+| |  | Masc. | Fem. | Neut. |
+|---|---|---|---|---|
+| Sing. | N. | πᾶς ὁ λύομενος ποιητής | πᾶσα ἡ λυομένη ψυχή | πᾶν τὸ λυόμενον βίβλιον |
 
 
 - **Thursday, 1/23** Produce forms for the following phrases, in every case, three genders, singular and plural:
