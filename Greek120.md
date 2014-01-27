@@ -10,7 +10,7 @@ For Monday, 1/20: Drill II, pp. 221–222: Write out each participle form for th
 
 | |  | Masc. | Fem. | Neut. |
 |---|---|---|---|---|
-| Sing. | N. | ὁ λύσας ποιητής | ἡ λύσασα ψυχή |  τὸ λύσαν βίβλιον |
+| Sing. | N. | ὁ λύσας ποιητής | ἡ λύσασα ψυχή |  τὸ λῦσαν βίβλιον |
 
 
 
