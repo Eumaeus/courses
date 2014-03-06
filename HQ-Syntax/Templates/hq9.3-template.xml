@@ -1,0 +1,40 @@
+<treebank xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" format="aldt" xml:lang="grc">
+    <sentence id="1">
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="1" form="ταῦτα" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="2" form="μὲν" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="3" form="γέγραπται" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="4" form="," postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="5" form="ὦ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="6" form="Ἀθηναῖοι" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="7" form="," postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="8" form="περὶ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="9" form="τῶν" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="10" form="ἀγαθοῦ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="11" form="ἀνθρώπου" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="12" form="τρόπων" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="13" form="τοῖς" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="14" form="ποιηταῖς" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="15" form="τοῖς" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="16" form="εὖ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="17" form="τε" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="18" form="καὶ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="19" form="καλῶς" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="20" form="διδάξασι" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="21" form="πάντας" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="22" form="γε" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="23" form="τοὺς" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="24" form="πολίτας" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="25" form="," postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="26" form="τάδε" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="27" form="δὲ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="28" form="γράφουσιν" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="29" form="οἱ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="30" form="ῥήτορες" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="31" form="οἱ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="32" form="νῦν" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="33" form="πείθοντες" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="34" form="τὸν" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="35" form="δῆμον" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="36" form="." postag="-" head="0" relation=""/>
+    </sentence>
+</treebank>

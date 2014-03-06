@@ -1,0 +1,17 @@
+<treebank xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" format="aldt" xml:lang="grc">
+    <sentence id="1">
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="1" form="καλόν" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="2" form="τοι" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="3" form="τὸ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="4" form="ταύτης" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="5" form="τῆς" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="6" form="γῆς" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="7" form="ὕδωρ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="8" form="," postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="9" form="κακοὶ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="10" form="δὲ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="11" form="οἱ" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="12" form="ἄνθρωποι" postag="-" head="0" relation=""/>
+        <word xmlns="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" id="13" form="." postag="-" head="0" relation=""/>
+    </sentence>
+</treebank>

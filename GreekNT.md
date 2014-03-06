@@ -1,12 +1,17 @@
 # Documents for the Greek New Testament Tutorial
 
-## Major Projects (Due 
+## Major Projects (Do _one_ of the following.)
 
 - Transcribe 2 folios of Codex Bodmer 25; identify graphemes & word-tokens.[^ws]
 - Align a Chapter of Matthew across English, Latin, and Greek editions.[^ws]
+- Do a Syntactic Dependency Treebank for a Biblical Chapter of Greek.[^rs]
 - Translate at sight 10 verses, identifying completely every verb-form.
 
+Pick a topic by Monday, March 17. These will be due Friday, May 2.
+
 [^ws]: I will conduct a couple of workshops showing how this is done. This is an experiment toward future work on these texts.
+
+[^rs]: It might make sense for a pair of collaborators to join forces and do a syntactic treebank and an alignment.
 
 ## Final Exam
 
