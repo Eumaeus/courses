@@ -1,5 +1,7 @@
 ## Assignments · Greek 120
 
+For Monday, 3/24: Install _Box_, following the link from MyFurman >> My Apps. Get help if you need to. Read Unit 9 sentences, 21-16.
+
 For Friday, 1/24: Translate Drill III (p. 223) and Exercises 1–5 (p.224).
 
 For Monday, 1/20: Drill II, pp. 221–222: Write out each participle form for these drills (1-48); write out the transformation from singular to plural or vice versa.
