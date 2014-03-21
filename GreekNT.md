@@ -9,9 +9,17 @@
 
 Pick a topic by Monday, March 17. These will be due Friday, May 2.
 
+By Friday, March 21, give me the passage you are interested in working on, so I can prepare the data!
+
 [^ws]: I will conduct a couple of workshops showing how this is done. This is an experiment toward future work on these texts.
 
 [^rs]: It might make sense for a pair of collaborators to join forces and do a syntactic treebank and an alignment.
+
+## Reading Schedule
+
+- We will read through _Genesis_ 10.29 (the end of Noah's story).
+- We will read _Exodus_ 20-21 (the first part of the Law).
+- We will read 1 Corinthians 12-13 (Paul on gifts, variety, and love).
 
 ## Final Exam
 
