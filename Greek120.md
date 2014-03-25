@@ -8,6 +8,8 @@ For Monday, 1/20: Drill II, pp. 221–222: Write out each participle form for th
 
 ## Upcoming Quizzes
 
+- **Thursday, 3/27** Vocabulary, Unit 10: Other words (genitive singular and definite articles for nouns! All three forms for adjectives!)
+
 - **Monday, 3/24** Vocabulary, Unit 10: Verbs (and their principal parts): ἀγγέλλω, ἀξιόω, δηλόω, καλέω, μένω.
 
 - **Thursday, 3/6** Sentence Translating Quiz, based on Unit 8 (Counts as 3x vocabulary quizzes).
