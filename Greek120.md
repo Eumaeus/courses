@@ -1,5 +1,7 @@
 ## Assignments · Greek 120
 
+For Thursday, 3/26: Do Drills I and II on pp. 277-278. Write these out. For II, do both (a) and (b).
+
 For Monday, 3/24: Install _Box_, following the link from MyFurman >> My Apps. Get help if you need to. Read Unit 9 sentences, 21-26.
 
 For Friday, 1/24: Translate Drill III (p. 223) and Exercises 1–5 (p.224).
