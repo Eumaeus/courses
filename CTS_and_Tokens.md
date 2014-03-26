@@ -25,4 +25,14 @@ In this example, we could conceivably cite `urn:cts:greekLit:fuNTPL.matth.msCB25
 
 Of these (1) is no good, because it is not well-formed XML. (2) shows an attempt at being well-formed, but fails, since it did not catch all containing markup (the closing tag on `<choice></choice>`). (3) Is well-formed
 
+## Translation Alignment
 
+Some examples:
+
+- [Aeneid 1.1 Latin](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1]
+- [Aeneid 1.1-1.10 Latin](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1-1.10]
+- [Aeneid 1.2-1.12 Latin](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1-1.12]
+- [Aeneid 1.1](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1]
+- [Aeneid 1.1](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1]
+- [Aeneid 1.1](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1]
+- [Aeneid 1.1](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1]

@@ -30,4 +30,13 @@ By Friday, March 21, give me the passage you are interested in working on, so I 
 
 **N.b.** The standards for evaluating these three will of course be different. 
 
+## Who is Doing What?
+
+- Shannon. Parable of the Sower. Matthew 13.1-13.23
+- Elli. Babel! Genesis 11.1-11.9
+- Tyler. Matthew 28.   
+- Will. Romans 8.
+- Fred. Get really good at some part of John.
+- Jamie. Ephesians 2:1-2:10. Psalms 1.
+- Elias. Codex Bodmer.
 
