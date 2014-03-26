@@ -29,10 +29,10 @@ Of these (1) is no good, because it is not well-formed XML. (2) shows an attempt
 
 Some examples:
 
-- [Aeneid 1.1 Latin](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1]
-- [Aeneid 1.1-1.10 Latin](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1-1.10]
-- [Aeneid 1.2-1.12 Latin](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1-1.12]
-- [Aeneid 1.1](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1]
-- [Aeneid 1.1](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1]
-- [Aeneid 1.1](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1]
-- [Aeneid 1.1](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1]
+- [Aeneid 1.1 Latin](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1)
+- [Aeneid 1.1-1.10 Latin](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1-1.10)
+- [Aeneid 1.2-1.12 Latin](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1-1.12)
+- [Aeneid 1.1 Unaligned English](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuEng:1.1)
+- [Aeneid 1.8 Unaligned English](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuEng:1.8)
+- [Aeneid 1.3 Unaligned English (broken link!)](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuEng:1.3)
+- [Aeneid 1.1](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn:cts:latinLit:phi0690.phi003.fuPers:1.1)
