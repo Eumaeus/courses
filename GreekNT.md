@@ -32,7 +32,7 @@ By Friday, March 21, give me the passage you are interested in working on, so I 
 
 ## Who is Doing What?
 
-- Shannon. Parable of the Sower. Matthew 13.1-13.23
+- Shannon. Parable of the Sower. Matthew 13.1-13.23. 
 - Elli. Babel! Genesis 11.1-11.9
 - Tyler. Matthew 28.   
 - Will. Romans 8.
