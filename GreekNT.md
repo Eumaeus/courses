@@ -40,3 +40,13 @@ By Friday, March 21, give me the passage you are interested in working on, so I 
 - Jamie. Ephesians 2:1-2:10. Psalms 1.
 - Elias. Codex Bodmer.
 
+## Notes on alignment
+
+- We have citations down to the word level.
+- Get a setence treebanked.
+- Generate and index…
+
+    - Sentence-URNs.
+    - Syntax-Token-URNs. This must include ellipsis as a citeable node.
+
+- We generate an index… syntax-token --> translation-word-token(s). 
