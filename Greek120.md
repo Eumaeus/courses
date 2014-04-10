@@ -1,24 +1,12 @@
 ## Assignments · Greek 120
 
-For Thursday, 3/26: Do Drills I and II on pp. 277-278. Write these out. For II, do both (a) and (b).
 
-For Monday, 3/24: Install _Box_, following the link from MyFurman >> My Apps. Get help if you need to. Read Unit 9 sentences, 21-26.
-
-For Friday, 1/24: Translate Drill III (p. 223) and Exercises 1–5 (p.224).
-
-For Monday, 1/20: Drill II, pp. 221–222: Write out each participle form for these drills (1-48); write out the transformation from singular to plural or vice versa.
 
 ## Upcoming Quizzes
 
-- **Thursday, 3/27** Vocabulary, Unit 10: Other words (genitive singular and definite articles for nouns! All three forms for adjectives!)
+** Monday, April 14 ** Write the meaning and principal parts of the verbs: ἀκούω, βάλλω, βούλομαι, δέχομαι, λαμβάνω, πάσχω.
 
-- **Monday, 3/24** Vocabulary, Unit 10: Verbs (and their principal parts): ἀγγέλλω, ἀξιόω, δηλόω, καλέω, μένω.
-
-- **Thursday, 3/6** Sentence Translating Quiz, based on Unit 8 (Counts as 3x vocabulary quizzes).
-
-- **Friday, 2/28** Second vocabulary quiz, Unit 9. Verbs for this chapter. Given the _first principal part_, give me _all the others_, and the _meaning_.
-
-- **Thursday, 2/27** Vocabulary Quiz - Unit 9
+** Tuesday, April 15 ** Normal vocab quiz on words from Chapter 11. For nouns, write **meaning**, **definite article**, and **genitive singular form**.
 
 
 - **Monday, 2/10** Produce forms for the following phrases, in every case, three genders, singular and plural: “the poet having educated”, “the soul having educated”, “the book having educated”. (I’m asking for both the aorist active participle and the perfect active participle.)
