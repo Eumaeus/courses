@@ -17,6 +17,10 @@ By Friday, March 21, give me the passage you are interested in working on, so I 
 
 ## Reading Schedule
 
+- Three Parables: Luke 15.
+- Abraham and Isaac: Genesis 21-22.
+- Joseph: Genesis 37ff.
+
 - We will read through _Genesis_ 10.29 (the end of Noah's story).
 - We will read _Exodus_ 20-21 (the first part of the Law).
 - We will read 1 Corinthians 12-13 (Paul on gifts, variety, and love).
