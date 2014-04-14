@@ -50,7 +50,7 @@
 
 ## Links
 
-Tokenized Edition Greek: [urn:cts:greekLit:tlg0031.tlg001.fugnt001t:13.1-13.23](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn%3Acts%3AgreekLit%3Atlg0031.tlg001.fugnt001t%3A13.1-13.23}
+Tokenized Edition Greek: [urn:cts:greekLit:tlg0031.tlg001.fugnt001t:13.1-13.23](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn%3Acts%3AgreekLit%3Atlg0031.tlg001.fugnt001t%3A13.1-13.23)
 
 King James Version (tokenized): [urn:cts:greekLit:tlg0031.tlg001.fu001t:13.1-13.23](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn%3Acts%3AgreekLit%3Atlg0031.tlg001.fu001t%3A13.1-13.23)
 
