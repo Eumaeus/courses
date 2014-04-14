@@ -1,6 +1,5 @@
 # Babel!
 
-
 ## Text
 
 Καὶ ἦν πᾶσα ἡ γῆ χεῖλος ἕν , καὶ φωνὴ μία πᾶσιν .  
@@ -36,3 +35,11 @@
 ## Citations
 
 Tokenized Edition: [urn:cts:greekLit:tlg0527.tlg001.fu01t:11.1-11.11](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn%3Acts%3AgreekLit%3Atlg0527.tlg001.fu01t%3A11.1-11.11)
+
+## Steps
+
+1. Grab a sentence.
+1. Go to [alpheios.net]() and fire up the Treebank Editor.
+1. Choose "online editor", paste in your sentence, choose "Greek", edit it!
+1. Do Export XML often!
+1. Repeat as necessary.
