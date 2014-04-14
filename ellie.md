@@ -34,7 +34,10 @@
 
 ## Citations
 
-Tokenized Edition: [urn:cts:greekLit:tlg0527.tlg001.fu01t:11.1-11.11](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn%3Acts%3AgreekLit%3Atlg0527.tlg001.fu01t%3A11.1-11.11)
+Tokenized Edition Greek: [urn:cts:greekLit:tlg0527.tlg001.fu01t:11.1-11.11](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn%3Acts%3AgreekLit%3Atlg0527.tlg001.fu01t%3A11.1-11.11)
+
+Tokenized Edition KJV: [urn:cts:greekLit:tlg0527.tlg001.fuKJVt](http://folio.furman.edu/citeservlet/texts?request=GetPassagePlus&urn=urn%3Acts%3AgreekLit%3Atlg0527.tlg001.fuKJVt%3A11.1-11.11)
+
 
 ## Steps
 
